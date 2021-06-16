@@ -11,5 +11,8 @@ Imagine a way to use Discord in your terminal; Get TermCord.
 Put in a (bot) token, and your in!
 Just use it like normal discord. Chat and talk with friends, and more :smile:
 
-## Support
+## Bugs and Support
 If you need support, contact me on my Discord ``FireyJS#6969`` or my business email ``termcord@gmail.com``.
+
+To file bugs, go [here](https://github.com/sharknix/termcord-linux/issues).
+To see tips that are useful, go [here](https://github.com/sharknix/termcord-linux/bugs/readme.md).
