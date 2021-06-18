@@ -15,4 +15,4 @@ Just use it like normal discord. Chat and talk with friends, and more :smile:
 If you need support, contact me on my Discord ``FireyJS#6969`` or my business email ``termcord@gmail.com``.
 
 To file bugs, go [here](https://github.com/sharknix/termcord-linux/issues).
-To see tips that are useful, go [here](https://github.com/sharknix/termcord-linux/bugs/readme.md).
+To see tips that are useful, go [here](https://github.com/sharknix/termcord-linux/tree/main/bugs/readme.md).
