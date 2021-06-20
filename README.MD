@@ -6,6 +6,7 @@ Have you ever wanted to see and make messages without even being on Discord? Get
 - Extract the .zip file, then "``cd``" over to the TermCord folder.
 - Make the scripts needed to open TermCord runnable by using these 2 commands: ``chmod +x main.sh``, ``chmod +x client.js``.
 - And finally, run it by opening the main file with the command ``./main.sh``.
+- If the last step didnt work, try running the command with root access: ``sudo ./main.sh``.
 
 ## Usage
 Put in a user/bot token, and your in!
