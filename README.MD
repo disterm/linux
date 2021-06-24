@@ -1,5 +1,5 @@
-# TermCord
-Have you ever wanted to see and make messages without even being on Discord? Get TermCord, the easy-to-use terminal "app" made to make your life a little bit easier. With it being light-weight and fast, it can connect in seconds! Most of all, it even supports user tokens, aswell as bot tokens!
+# DisTerm
+Have you ever wanted to see and make messages without even being on Discord? Get DisTerm, the easy-to-use terminal "app" made to make your life a little bit easier. With it being light-weight and fast, it can connect in seconds! Most of all, it even supports user tokens, aswell as bot tokens!
 
 ## Install
 - Go [here](https://github.com/sharknix/termcord-linux/releases/latest) and download the ``TermCord.zip`` file included.
